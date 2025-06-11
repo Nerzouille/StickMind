@@ -1,0 +1,23 @@
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environnements virtuels
+.env/
+venv/
+env/
+
+# Modèles entraînés (sauf les finaux)
+models/*_[0-9][0-9][0-9].pt
+models/*_[0-9][0-9].pt
+
+# Logs et données temporaires
+*.log
+tmp/
+temp/
+
+# IDE
+.vscode/
