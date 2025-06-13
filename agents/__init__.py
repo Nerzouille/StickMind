@@ -1,1 +1,1 @@
-# AI agents for Stick Hero
+# AI agents for StickMind

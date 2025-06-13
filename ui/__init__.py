@@ -1,1 +1,1 @@
-# UI module for Stick Hero AI
+# UI module for StickMind AI

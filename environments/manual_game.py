@@ -1,5 +1,5 @@
 """
-Manual game interface for Stick Hero
+Manual game interface for StickMind (Stick Hero)
 """
 import sys
 import os

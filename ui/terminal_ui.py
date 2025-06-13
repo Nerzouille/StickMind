@@ -1,5 +1,5 @@
 """
-Terminal UI for Stick Hero AI
+Terminal UI for StickMind AI
 """
 import time
 import os

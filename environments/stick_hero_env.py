@@ -9,7 +9,7 @@ class StickHeroEnv:
         self.width = width
         self.height = height
         self.screen = pygame.display.set_mode((width, height))
-        pygame.display.set_caption("Stick Hero")
+        pygame.display.set_caption("StickMind")
 
         # Colors
         self.WHITE = (255, 255, 255)

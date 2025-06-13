@@ -227,7 +227,7 @@ class AIGameInterface:
         self.visual_env.close()
 
 def main():
-    """Main menu for Stick Hero game"""
+    """Main menu for StickMind game"""
     print_title("🎮 Stick Hero - Game")
     print_subtitle("Choose your playing mode")
 

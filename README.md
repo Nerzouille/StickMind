@@ -1,10 +1,11 @@
-# Stick-IA
+# StickMind
 
 Implementation of an AI agent trained with Deep Q-Learning (DQN) to play the Stick Hero game autonomously.
 
-## The Project:
+## The Project
 
-Recreation of the popular mobile game "Stick Hero" with an intelligent agent capable of learning and mastering the game through reinforcement learning techniques.
+StickMind is a recreation of the popular mobile game "Stick Hero". The goal is simple: make your character
+ jump from platform to platform by growing a stick bridge. Press and hold to make the stick grow, release to make it fall. If the stick reaches the next platform, you succeed! If not, you fall and the game ends.
 
 This project focuses on implementing Deep Q-Learning algorithms to train an AI that can precisely calculate stick lengths to successfully navigate between platforms, demonstrating the application of machine learning in game environments.
 
@@ -23,7 +24,7 @@ This project focuses on implementing Deep Q-Learning algorithms to train an AI t
 ```bash
 Downloads> git clone <repository_url>
 ...
-Downloads/Stick-IA> pip install -r requirements.txt
+Downloads/StickMind> pip install -r requirements.txt
 ...
 ```
 
@@ -31,7 +32,7 @@ Downloads/Stick-IA> pip install -r requirements.txt
 
 ### Training a new AI agent:
 ```bash
-Stick-IA> python train_ai.py
+StickMind> python train_ai.py
     🎮 Stick Hero IA - Training
 
     1. Train a new agent
@@ -45,7 +46,7 @@ Stick-IA> python train_ai.py
 
 ### Making the AI play:
 ```bash
-Stick-IA> python play_game.py
+StickMind> python play_game.py
     🤖 AI Stick Hero
 
     1. 🤖 Watch AI play
@@ -68,7 +69,7 @@ Stick-IA> python play_game.py
 
 ### Manual gameplay:
 ```bash
-Stick-IA> python play_game.py
+StickMind> python play_game.py
     Choice: 2
 
     🎮 Manual Stick Hero
@@ -138,7 +139,7 @@ Episode   1500: Success Rate: 85% | Avg Score: 6.7
 ## File Structure
 
 ```
-Stick-IA/
+StickMind/
 ├── agents/
 │   └── dqn_agent.py          # DQN agent implementation
 ├── environments/

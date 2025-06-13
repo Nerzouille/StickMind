@@ -17,7 +17,7 @@ from ui.terminal_ui import (Style, print_title, print_subtitle, print_status,
 
 def train_agent(episodes=1000):
     """Train the agent with accelerated learning"""
-    print_title("🚀 Training Stick Hero AI")
+    print_title("🚀 Training StickMind AI")
 
     loading_dots("Initialization")
 

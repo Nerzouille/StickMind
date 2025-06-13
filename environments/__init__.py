@@ -1,1 +1,1 @@
-# Module d'environnements de jeu pour Stick Hero
+# Envrionment module for StickMind game

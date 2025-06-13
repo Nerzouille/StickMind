@@ -1,5 +1,5 @@
 """
-AI environment for Stick Hero - Simplified interface for fast training
+AI environment for StickMind - Simplified interface for fast training
 """
 import numpy as np
 import random

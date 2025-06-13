@@ -1,1 +1,1 @@
-# Training module for Stick Hero AI
+# Training module for StickMind AI
